@@ -1,0 +1,9 @@
+view\ViewMenu.class
+view\ViewCadastroProduto.class
+view\ViewCadastroCliente.class
+view\ViewCadastroVenda$1.class
+conexaoBD\ConexaoPostgres.class
+view\ViewCadastroProduto$1.class
+view\ViewCadastroVenda.class
+com\mycompany\projetopdv\ProjetoPDV.class
+view\ViewMenu$1.class
